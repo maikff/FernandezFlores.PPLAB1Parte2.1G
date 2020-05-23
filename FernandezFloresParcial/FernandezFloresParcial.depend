@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1590124741 source:c:\users\owsla\desktop\1_parcial_lab1\fernandezfloresparcial\clientes.c
+	"clientes.h"
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1590115337 c:\users\owsla\desktop\1_parcial_lab1\fernandezfloresparcial\clientes.h
+
+1590136081 source:c:\users\owsla\desktop\1_parcial_lab1\fernandezfloresparcial\colores.c
+	"colores.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1590183020 c:\users\owsla\desktop\1_parcial_lab1\fernandezfloresparcial\colores.h
+
+1590194458 source:c:\users\owsla\desktop\1_parcial_lab1\fernandezfloresparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"mascotas.h"
+	"tipos.h"
+	"colores.h"
+	"servicios.h"
+	"trabajos.h"
+	"clientes.h"
+	"informes.h"
+
+1590194504 c:\users\owsla\desktop\1_parcial_lab1\fernandezfloresparcial\mascotas.h
+	"tipos.h"
+	"colores.h"
+	"clientes.h"
+
+1590010784 c:\users\owsla\desktop\1_parcial_lab1\fernandezfloresparcial\tipos.h
+
+1590010784 c:\users\owsla\desktop\1_parcial_lab1\fernandezfloresparcial\servicios.h
+
+1590115699 c:\users\owsla\desktop\1_parcial_lab1\fernandezfloresparcial\trabajos.h
+	"fecha.h"
+	"mascotas.h"
+	"servicios.h"
+	"tipos.h"
+	"clientes.h"
+
+1590016809 c:\users\owsla\desktop\1_parcial_lab1\fernandezfloresparcial\fecha.h
+
+1590192497 c:\users\owsla\desktop\1_parcial_lab1\fernandezfloresparcial\informes.h
+	"mascotas.h"
+	"servicios.h"
+	"trabajos.h"
+	"tipos.h"
+	"colores.h"
+
+1590195012 source:c:\users\owsla\desktop\1_parcial_lab1\fernandezfloresparcial\mascotas.c
+	"mascotas.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1590015994 source:c:\users\owsla\desktop\1_parcial_lab1\fernandezfloresparcial\servicios.c
+	"servicios.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1590136087 source:c:\users\owsla\desktop\1_parcial_lab1\fernandezfloresparcial\tipos.c
+	"tipos.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1590190776 source:c:\users\owsla\desktop\1_parcial_lab1\fernandezfloresparcial\trabajos.c
+	"trabajos.h"
+	<stdio.h>
+	<stdlib.h>
+
+1590192825 source:c:\users\owsla\desktop\1_parcial_lab1\fernandezfloresparcial\informes.c
+	"informes.h"
+	"mascotas.h"
+	"tipos.h"
+	"colores.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
